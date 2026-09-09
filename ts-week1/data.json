@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "username": "ali_pro",
+    "email": "ali@example.com",
+    "role": "admin",
+    "age": 28,
+    "phoneNumber": "09121111111"
+  },
+  {
+    "id": 2,
+    "username": "reza",
+    "email": "invalid-email",
+    "role": "user",
+    "age": 16,
+    "phoneNumber": "123"
+  },
+  {
+    "id": 3,
+    "username": "maryam_dev",
+    "email": "maryam@domain.com",
+    "role": "user",
+    "age": 30,
+    "phoneNumber": "09122222222"
+  }
+]
